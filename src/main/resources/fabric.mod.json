@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "chunkimator",
+  "version": "${version}",
+  "name": "Chunkimator",
+  "description": "Chunk load animations. Fabric port of ChunkAnimator",
+  "authors": [
+    "mineblock11"
+  ],
+  "contact": {
+    "website": "https://mineblock11.dev",
+    "repo": "https://github.com/11mods/chunkimator"
+  },
+  "license": "MIT",
+  "icon": "assets/chunkimator/icon.png",
+  "accessWidener": "chunkimator.accesswidener",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "mine.block.chunkimator.client.ChunkimatorClient"
+    ]
+  },
+  "mixins": [
+    "Chunkimator.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.10",
+    "fabric": "*",
+    "minecraft": "1.19.2"
+  }
+}

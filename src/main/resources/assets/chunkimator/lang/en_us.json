@@ -1,0 +1,23 @@
+{
+  "text.config.chunkimator.title": "Chunkimator Config",
+  "text.config.chunkimator.option.animationDurationMs": "Animation Duration (ms)",
+  "text.config.chunkimator.option.animationMode": "Animation Mode",
+  "text.config.chunkimator.option.animationMode.value.below": "Below",
+  "text.config.chunkimator.option.animationMode.value.above": "Above",
+  "text.config.chunkimator.option.animationMode.value.hybrid": "Hybrid",
+  "text.config.chunkimator.option.animationMode.value.horizontal_slide": "Horizontal",
+  "text.config.chunkimator.option.animationMode.value.horizontal_slide_alternate": "Horizontal (Alt.)",
+  "text.config.chunkimator.option.easing": "Easing",
+  "text.config.chunkimator.option.easing.value.linear": "Linear",
+  "text.config.chunkimator.option.easing.value.quad": "Quad",
+  "text.config.chunkimator.option.easing.value.cubic": "Cubic",
+  "text.config.chunkimator.option.easing.value.quart": "Quart",
+  "text.config.chunkimator.option.easing.value.quint": "Quint",
+  "text.config.chunkimator.option.easing.value.expo": "Expo",
+  "text.config.chunkimator.option.easing.value.sine": "Sine",
+  "text.config.chunkimator.option.easing.value.circ": "Circ",
+  "text.config.chunkimator.option.easing.value.back": "Back",
+  "text.config.chunkimator.option.easing.value.bounce": "Bounce",
+  "text.config.chunkimator.option.easing.value.elastic": "Elastic",
+  "text.config.chunkimator.option.disableAroundPlayer": "Disable Around Player"
+}
