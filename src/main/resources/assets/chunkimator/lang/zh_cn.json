@@ -1,0 +1,13 @@
+{
+  "text.config.chunkimator.title": "Chunkimator配置",
+  "text.config.chunkimator.option.animationDurationMs": "动画时长（毫秒）",
+  "text.config.chunkimator.option.animationMode": "动画模式",
+  "text.config.chunkimator.option.animationMode.value.below": "下",
+  "text.config.chunkimator.option.animationMode.value.above": "上",
+  "text.config.chunkimator.option.animationMode.value.hybrid": "混合",
+  "text.config.chunkimator.option.animationMode.value.horizontal_slide": "水平",
+  "text.config.chunkimator.option.animationMode.value.horizontal_slide_alternate": "水平（备用）",
+  "text.config.chunkimator.option.easing": "缓冲",
+
+  "text.config.chunkimator.option.disableAroundPlayer": "禁用玩家周围"
+}
